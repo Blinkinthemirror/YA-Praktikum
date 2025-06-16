@@ -35,5 +35,3 @@ Feel free to reach out via Linkedin: https://www.linkedin.com/in/peterpolyakov/
 Or leave a message via GitHub Issues.
 
 ---
-
-_Thanks for visiting my portfolio!_
