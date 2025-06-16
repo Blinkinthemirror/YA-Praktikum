@@ -1,6 +1,6 @@
 # 🎓 YA-Praktikum — Data Analyst Portfolio
 
-Welcome! This repository contains my projects completed during the **Data Analyst course by Yandex Practicum**. Each project applies tools like SQL, Python, statistics, visualization, and business analytics to solve real-world problems.
+Welcome! This repository contains my projects completed during the **Data Analyst course by Yandex Practicum**. Each project applies tools like SQL, Python, statistics, visualization, and business analytics to solve business problems.
 
 ---
 
